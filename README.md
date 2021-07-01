@@ -14,7 +14,7 @@ On top of the basic features of Boggle, we added
 * highlighting of the word found on the board as either green, red, or white
 
 # authors & tasks
-## Alanna
+## Alanna: github.com/alanna-zhou
 * Implemented and specified functions in board.ml and board.mli
 * Implemented and specified functions in state.ml and state.mli
 * Added better scoring
@@ -23,21 +23,21 @@ On top of the basic features of Boggle, we added
 * Wrote the formatting method in main 
 * Wrote tests for the BFS and node highlighting
 
-## Austin
+## Austin github.com/austinchen302
 * Implemented and specified functions in trie.ml and trie.mli
 * Added a hints system to the game
 * Added a score multiplier
 * Added a way to track the user’s average time between words
 * Fixed minor scoring and display bugs
 
-## James
+## James github.com/jgd78
 * Implemented and specified functions in command.ml and command.mli
 * Wrote Main
 * Added initial game word art
 * Implemented the format function to display correct and incorrect words as green and red, respectively
 * Updated commands and improved the UI
 
-## Khyati
+## Khyati github.com/khyati-sipani
 * Implemented and specified functions in board.ml and board.mli
 * Wrote tests for functions in test.ml
 * Added functionality to upload custom die and custom boards in board.mli and board.mli
